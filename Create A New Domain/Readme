@@ -1,0 +1,10 @@
+This folder contains notes from the John Hammond video playlist regarding Active Directory 
+-https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp
+
+In the first few videos, John explains how to:
+- Create VMs for Window Workstations and Servers which can be cloned (duplicated) - Video 00
+- Create a New Active Directory Domain and Join Computer to the Domain) - Video 01
+- Add New Users Programatically - Video 02
+- Create Users With Weak Passwords for Later Security Exercises - Video 03 
+
+The series continues by using various security tools for testing the domain.
