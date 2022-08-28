@@ -5,8 +5,12 @@ The videos explain how to create an Active Directory domain for a home lab envir
 
 In the first few videos, John explains how to:
 - Create Virutal Machines (VMs) for Windows Workstations and Servers which can be cloned (duplicated) - Video 00
+--  https://youtu.be/pKtDQtsubio
 - Create a New Active Directory Domain and Join Computers to the Domain - Video 01
+-- https://youtu.be/19pNfFnBfI8
 - Create New Domain Users Programatically - Video 02
+-- https://youtu.be/59VqS6wMn6w
 - Create Domain Users With Weak Passwords for Later Security Exercises - Video 03 
+-- https://youtu.be/66ZD1J-AR2c
 
 The series continues by using various security tools for testing the domain.
