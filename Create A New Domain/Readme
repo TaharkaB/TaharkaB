@@ -1,10 +1,12 @@
-This folder contains notes from the John Hammond video playlist regarding Active Directory 
--https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp
+This folder contains notes from the John Hammond video playlist on YoutTube regarding Active Directory. 
+- https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp
+
+The videos explain how to create an Active Directory domain for a home lab environment.
 
 In the first few videos, John explains how to:
-- Create VMs for Window Workstations and Servers which can be cloned (duplicated) - Video 00
-- Create a New Active Directory Domain and Join Computer to the Domain) - Video 01
-- Add New Users Programatically - Video 02
-- Create Users With Weak Passwords for Later Security Exercises - Video 03 
+- Create Virutal Machines (VMs) for Windows Workstations and Servers which can be cloned (duplicated) - Video 00
+- Create a New Active Directory Domain and Join Computers to the Domain - Video 01
+- Create New Domain Users Programatically - Video 02
+- Create Domain Users With Weak Passwords for Later Security Exercises - Video 03 
 
 The series continues by using various security tools for testing the domain.
